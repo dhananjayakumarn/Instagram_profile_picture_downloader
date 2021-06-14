@@ -2,7 +2,7 @@ from pyfiglet import *
 from instaloader import *
 from termcolor import  *
 
-Figlet = Figlet(font="Slant")
+Figlet = Figlet(font="slant")
 print(Figlet.renderText("INSTA-TOOL"))
 cprint(f"\t\t\t\t\t\t\t####|Created By DANNY|####", 'red')
 
