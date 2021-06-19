@@ -16,7 +16,7 @@ Project is created with:
 ## Setup
 1.To run this project,first install Python3 on your system.<br>
 2.Then you can download the .py file and run the file.<br>
-3.If you are using linux you can use git colne and run.<br>
+3.If you are using linux you can use git clone and run.<br>
 $ git clone https://github.com/dhananjayakumarn/Instagram_profile_picture_downloader.git <br>
 $ cd Instagram_profile_picture_downloader <br>
 $ ls <br>
